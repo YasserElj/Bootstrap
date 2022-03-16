@@ -1,0 +1,8 @@
+.card:hover{
+    background-color: black;
+    color : white;
+    transition-duration: 400ms;
+}
+.card{
+    transition-duration: 400ms;
+}
